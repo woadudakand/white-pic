@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="046d3478-bb5f-4194-83fb-db6be5e561b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/break/lunch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/break/lunch/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/break/mobile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/break/mobile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/break/others/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/break/others/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/break/wash-room/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/break/wash-room/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/checkIn/in.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkIn/in.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/checkIn/out.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkIn/out.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/feedback.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/feedback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/group-work/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/group-work/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/leave/request-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leave/request-table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profile/ProfileData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profile/ProfileData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/auth/login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/auth/login/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/auth/register/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/auth/register/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/email/email.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/email/email.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/employee/AllEmployee.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/employee/AllEmployee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/employee/Attendance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/employee/Attendance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/holiday/setHoliday.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/holiday/setHoliday.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/leave/leave.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/leave/leave.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/notice/all-notice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/notice/all-notice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/notice/edit-notice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/notice/edit-notice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/notice/post-notice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/notice/post-notice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/notification/notification-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/notification/notification-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/polices/Polices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/polices/Polices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/navbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/navbar/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/report/employe-report.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-481">
+              <caret line="208" column="88" selection-start-line="208" selection-start-column="88" selection-end-line="208" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/report/calculate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1501">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/report/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3541">
+              <caret line="179" column="44" selection-start-line="179" selection-start-column="44" selection-end-line="179" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/single/all-message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2521">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/single/edit-message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3211">
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/single/read-message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2731">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/db-config/fbConfig.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-451">
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/layout/navbar/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12691">
+              <folding>
+                <element signature="e#0#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/layout/navbar/style.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-540" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/redux/actions/employee.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1561" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/redux/actions/giveMessage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2161" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1801" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-181">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1801">
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1908">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/polices/addPolicy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-271">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/polices/Polices.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2971">
+              <caret line="90" column="49" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/privilege/privilege.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-271">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/profile/Profile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-631">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Requested</find>
+      <find>success</find>
+      <find>family</find>
+      <find>succes</find>
+      <find>pending</find>
+      <find>panding</find>
+      <find>filterValue</find>
+      <find>approve</find>
+      <find>available</find>
+      <find>leave reque</find>
+      <find>pen</find>
+      <find>overtime reques</find>
+      <find>attendance</find>
+      <find>260</find>
+      <find>/leave</find>
+      <find>Leave Request</find>
+      <find>Morning Late</find>
+      <find>h2</find>
+      <find>hour</find>
+      <find>summary</find>
+      <find>working days</find>
+      <find>calendar</find>
+      <find>events</find>
+      <find>active__listings</find>
+      <find>auto</find>
+      <find>view</find>
+      <find>updatePolicy_description</find>
+      <find>ant-input</find>
+      <find>table</find>
+      <find>leave</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pending</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\aazzt\Desktop\electron\src\container\leave</dir>
+      <dir>C:\Users\aazzt\Desktop\electron\src\container\report</dir>
+      <dir>C:\Users\aazzt\Desktop\electron\src\components</dir>
+      <dir>C:\Users\aazzt\Desktop\electron\src\container</dir>
+      <dir>C:\Users\aazzt\Desktop\electron\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/auth/logout.js" />
+        <option value="$PROJECT_DIR$/src/db-config/fbConfig.js" />
+        <option value="$PROJECT_DIR$/../lineawesomeJSON.json" />
+        <option value="$PROJECT_DIR$/src/components/styled.js" />
+        <option value="$PROJECT_DIR$/src/components/overtime/index.js" />
+        <option value="$PROJECT_DIR$/src/container/dashboard/styled.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/components/group-work/style.js" />
+        <option value="$PROJECT_DIR$/src/container/dashboard/index.js" />
+        <option value="$PROJECT_DIR$/src/components/break/style.js" />
+        <option value="$PROJECT_DIR$/src/components/checkIn/style.js" />
+        <option value="$PROJECT_DIR$/src/components/overtime/style.js" />
+        <option value="$PROJECT_DIR$/src/components/overtime-paid/style.js" />
+        <option value="$PROJECT_DIR$/src/container/leave/style.js" />
+        <option value="$PROJECT_DIR$/src/container/leave/balance.js" />
+        <option value="$PROJECT_DIR$/src/container/email/style.js" />
+        <option value="$PROJECT_DIR$/src/container/leave/request.js" />
+        <option value="$PROJECT_DIR$/src/components/report/summary2.js" />
+        <option value="$PROJECT_DIR$/src/container/report/index.js" />
+        <option value="$PROJECT_DIR$/src/components/profile/style.js" />
+        <option value="$PROJECT_DIR$/src/layout/navbar/style.js" />
+        <option value="$PROJECT_DIR$/src/container/notice/style.js" />
+        <option value="$PROJECT_DIR$/src/container/polices/addPolicy.js" />
+        <option value="$PROJECT_DIR$/src/container/polices/style.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/components/report/summary.js" />
+        <option value="$PROJECT_DIR$/src/container/report/employe-report.js" />
+        <option value="$PROJECT_DIR$/src/container/report/style.js" />
+        <option value="$PROJECT_DIR$/src/container/notification/notification-all.js" />
+        <option value="$PROJECT_DIR$/src/layout/navbar/index.js" />
+        <option value="$PROJECT_DIR$/src/components/break/lunch/index.js" />
+        <option value="$PROJECT_DIR$/src/components/break/mobile/index.js" />
+        <option value="$PROJECT_DIR$/src/components/break/others/index.js" />
+        <option value="$PROJECT_DIR$/src/components/break/wash-room/index.js" />
+        <option value="$PROJECT_DIR$/src/components/checkIn/in.js" />
+        <option value="$PROJECT_DIR$/src/components/checkIn/out.js" />
+        <option value="$PROJECT_DIR$/src/components/group-work/index.js" />
+        <option value="$PROJECT_DIR$/src/components/leave/request-table.js" />
+        <option value="$PROJECT_DIR$/src/components/profile/ProfileData.js" />
+        <option value="$PROJECT_DIR$/src/components/feedback.js" />
+        <option value="$PROJECT_DIR$/src/container/auth/login/index.js" />
+        <option value="$PROJECT_DIR$/src/container/auth/register/index.js" />
+        <option value="$PROJECT_DIR$/src/container/email/email.js" />
+        <option value="$PROJECT_DIR$/src/container/employee/AllEmployee.js" />
+        <option value="$PROJECT_DIR$/src/container/employee/Attendance.js" />
+        <option value="$PROJECT_DIR$/src/container/holiday/setHoliday.js" />
+        <option value="$PROJECT_DIR$/src/container/leave/leave.js" />
+        <option value="$PROJECT_DIR$/src/container/notice/all-notice.js" />
+        <option value="$PROJECT_DIR$/src/container/notice/edit-notice.js" />
+        <option value="$PROJECT_DIR$/src/container/notice/post-notice.js" />
+        <option value="$PROJECT_DIR$/src/container/polices/Polices.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="458" />
+    <option name="width" value="1210" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1W1BkLRPWOgkLKaH8s3o6w6WbA9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="break" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="break" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="break" type="462c0819:PsiDirectoryNode" />
+              <item name="lunch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="break" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="break" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="break" type="462c0819:PsiDirectoryNode" />
+              <item name="wash-room" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="checkIn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="group-work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="leave" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="overtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="overtime-paid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="privilege" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="time-format" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="holiday" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="leave" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="notice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="notification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="polices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="privilege" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="single" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aazzt\Desktop\electron\public\assets\icons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="046d3478-bb5f-4194-83fb-db6be5e561b9" name="Default Changelist" comment="" />
+      <created>1577954415689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577954415689</updated>
+      <workItem from="1577954417666" duration="10647000" />
+      <workItem from="1578191152997" duration="192000" />
+      <workItem from="1578201766881" duration="612000" />
+      <workItem from="1578307378942" duration="2000" />
+      <workItem from="1583297242468" duration="17288000" />
+      <workItem from="1583318775669" duration="2521000" />
+      <workItem from="1583373966789" duration="17579000" />
+      <workItem from="1583633726770" duration="1399000" />
+      <workItem from="1583831677133" duration="5686000" />
+      <workItem from="1583892922347" duration="2598000" />
+      <workItem from="1583979289911" duration="13198000" />
+      <workItem from="1584008390467" duration="1922000" />
+      <workItem from="1584099750717" duration="76000" />
+      <workItem from="1584238511775" duration="22178000" />
+      <workItem from="1584325005763" duration="986000" />
+      <workItem from="1584410895875" duration="1319000" />
+      <workItem from="1584785120649" duration="3128000" />
+      <workItem from="1584789115267" duration="2405000" />
+      <workItem from="1584843204150" duration="11152000" />
+      <workItem from="1584857325105" duration="1837000" />
+      <workItem from="1584864807339" duration="8678000" />
+      <workItem from="1584930734035" duration="928000" />
+      <workItem from="1584950813770" duration="592000" />
+      <workItem from="1584954059165" duration="595000" />
+      <workItem from="1585011225904" duration="1202000" />
+      <workItem from="1585021598322" duration="11720000" />
+      <workItem from="1585097954267" duration="465000" />
+      <workItem from="1585368202074" duration="1248000" />
+      <workItem from="1585374492342" duration="590000" />
+      <workItem from="1585716267234" duration="6272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137562000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.12100213" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3280757" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32912722" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.42271292" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/checkIn/out.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1865">
+          <caret line="151" column="86" lean-forward="true" selection-start-line="151" selection-start-column="86" selection-end-line="151" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/group-work/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1441">
+          <caret line="39" column="112" selection-start-line="39" selection-start-column="112" selection-end-line="39" selection-end-column="112" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/leave/request-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7111">
+          <caret line="87" column="124" selection-start-line="87" selection-start-column="124" selection-end-line="87" selection-end-column="124" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/overtime/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="77" column="14" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/overtime-paid/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/privilege/monthlyLeave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2521">
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/profile/ProfileData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="229" column="62" lean-forward="true" selection-start-line="229" selection-start-column="62" selection-end-line="229" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/report/summary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781">
+          <caret line="195" column="48" selection-start-line="195" selection-start-column="48" selection-end-line="195" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/report/summary2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4806">
+          <caret line="174" column="28" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/time-format/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/checkInOut.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1501">
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/feedback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="43" column="79" lean-forward="true" selection-start-line="43" selection-start-column="79" selection-end-line="43" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/global-data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/auth/login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/auth/register/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-541">
+          <caret line="96" column="73" selection-start-line="96" selection-start-column="73" selection-end-line="96" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/dashboard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3211">
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/email/email.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="84" column="53" selection-start-line="84" selection-start-column="53" selection-end-line="84" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/employee/AllEmployee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1291">
+          <caret line="112" column="53" selection-start-line="112" selection-start-column="53" selection-end-line="112" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/employee/Attendance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-871">
+          <caret line="127" column="53" selection-start-line="127" selection-start-column="53" selection-end-line="127" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/employee/Ranking.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5071">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/employee/style.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/holiday/setHoliday.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="61" column="68" lean-forward="true" selection-start-line="61" selection-start-column="68" selection-end-line="61" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/leave/balance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2731">
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/leave/leave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2251">
+          <caret line="204" column="114" selection-start-line="204" selection-start-column="114" selection-end-line="204" selection-end-column="114" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/leave/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-631">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/leave/style.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/notice/all-notice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="256" column="54" selection-start-line="256" selection-start-column="54" selection-end-line="256" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/notice/edit-notice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="130" column="67" lean-forward="true" selection-start-line="130" selection-start-column="67" selection-end-line="130" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/notice/post-notice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="128" column="69" selection-start-line="128" selection-start-column="69" selection-end-line="128" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/notice/read-notice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1261">
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/notification/notification-all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1711">
+          <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/polices/addPolicy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/polices/Polices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2971">
+          <caret line="90" column="49" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/privilege/privilege.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/profile/Profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-631">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/report/calculate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1501">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/report/employe-report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="208" column="88" selection-start-line="208" selection-start-column="88" selection-end-line="208" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/report/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3541">
+          <caret line="179" column="44" selection-start-line="179" selection-start-column="44" selection-end-line="179" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/single/all-message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2521">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/single/edit-message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3211">
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/single/read-message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2731">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db-config/fbConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-451">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layout/navbar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12691">
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layout/navbar/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/employee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/giveMessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2161" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1801" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1801">
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1908">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

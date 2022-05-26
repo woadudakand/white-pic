@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_2241" data-name="Group 2241" transform="translate(-140 -175)">
+    <g id="play-button" transform="translate(140 175)">
+      <g id="Group_1968" data-name="Group 1968">
+        <path id="Path_1206" data-name="Path 1206" d="M10,0A10,10,0,1,0,20,10,10,10,0,0,0,10,0Zm4.211,10.319a.714.714,0,0,1-.321.321v0L8.176,13.5a.714.714,0,0,1-1.034-.643V7.143A.714.714,0,0,1,8.176,6.5l5.714,2.857A.714.714,0,0,1,14.211,10.319Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
